@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="Carousel2" /> 
-  
-   <Content type="html" view="home">
+  <ModulePrefs title="layout" /> 
+    <Require feature="opensocial-templates"/>
+    <Require feature="opensocial-data"/>
+    <Require feature="views"/>
+    <Require feature="dynamic-height"/>
+  </ModulePrefs>
+<Content type="html" view="home">
 	 
 <![CDATA[ 
 
@@ -27,8 +31,5 @@ url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/fonts/GT-Walshei
 ]]>
 	 
   </Content> 
-     <Content type="html" view="canvas">
-     <![CDATA[ 
-     ]]>
-  </Content> 
+ 
 </Module>
