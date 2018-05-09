@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="layout" /> 
+  <ModulePrefs title="DXCU Help/FAQ">
     <Require feature="opensocial-templates"/>
     <Require feature="opensocial-data"/>
     <Require feature="views"/>
     <Require feature="dynamic-height"/>
   </ModulePrefs>
 <Content type="html" view="home">
-	 
-<![CDATA[ 
-
-    
+  <![CDATA[
+	
 <style>
 
 p.a {
@@ -28,8 +26,6 @@ url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/fonts/GT-Walshei
 </style>
 
 <p style="font-family: 'GT_Walsheim_Pro_Regular'; src: url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/css/GT-Walsheim-Pro-Regular.woff') format(woff), url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/css/GT-Walsheim-Pro-Regular.ttf') format('truetype'); font-size: 25px;"><a style="text-decoration-color: black; color: #000000;" href="https://my.dxc.com/onboarding" target="_blank">Global DXC Onboarding</a></p>
-]]>
-	 
-  </Content> 
- 
+  ]]>
+  </Content>
 </Module>
