@@ -26,7 +26,7 @@ p.a {
 
 </style>
 
-<p style="font-family: 'GT_Walsheim_Pro_Regular'; src: url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/css/GT-Walsheim-Pro-Regular.woff') format(woff), url('https://raw.githubusercontent.com/dxcuni/help/itg/resource/css/GT-Walsheim-Pro-Regular.ttf') format('truetype'); font-size: 25px;"><a style="text-decoration-color: black; color: #000000;" href="https://my.dxc.com/onboarding" target="_blank">Global DXC Onboarding</a></p>
+<p style="font-family: 'GT_Walsheim_Pro_Regular'; font-size: 25px;"><a style="text-decoration-color: black; color: #000000;" href="https://my.dxc.com/onboarding" target="_blank">Global DXC Onboarding</a></p>
   ]]>
   </Content>
 </Module>
