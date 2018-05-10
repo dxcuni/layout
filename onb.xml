@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <link rel="stylesheet" href="/resources/demos/style.css">
   <style>
-  .toggler { width: 450px; height: 130px; }
+  .toggler { width: 420px; height: 130px; }
   #button { padding: .5em 1em; text-decoration: none; }
   #effect { width: 350px; height: 100px; padding: 0.4em; position: relative; }
   #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
