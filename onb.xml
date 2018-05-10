@@ -48,7 +48,7 @@ p.a {
       if ( selectedEffect === "scale" ) {
         options = { percent: 50 };
       } else if ( selectedEffect === "size" ) {
-        options = { to: { width: 280, height: 185 } };
+        options = { to: { width: 350, height: 300 } };
       }
  
       // Run the effect
