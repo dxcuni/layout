@@ -73,7 +73,9 @@ p.a {
 
 <div class="toggler">
   <div id="effect" class="ui-widget-content ui-corner-all">
+<!--
     <h3 class="ui-widget-header ui-corner-all">Show</h3>
+-->
        <p style="font-family: 'GT_Walsheim_Pro_Regular'; font-size: 25px;"><a style="text-decoration-color: black; color: #000000;" href="https://my.dxc.com/onboarding" target="_blank">Global DXC Onboarding</a></p>
   </div>
 </div>
